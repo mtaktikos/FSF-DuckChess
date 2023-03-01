@@ -74,6 +74,10 @@ The games currently supported besides chess are listed below. Fairy-Stockfish ca
 - [Clobber](https://en.wikipedia.org/wiki/Clobber)
 - [Cfour](https://en.wikipedia.org/wiki/Connect_Four), [Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 - [Flipersi](https://en.wikipedia.org/wiki/Reversi), [Flipello](https://en.wikipedia.org/wiki/Reversi#Othello)
+Attention, in FSF-Duck the piece values are adapted for duck chess, 
+so that in other variants the engine plays weaker.
+If you are interested in the other variants, for the
+best game experience please prefer the master branch of Fairy-Stockfish.
 
 ## Help
 
